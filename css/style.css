@@ -1,0 +1,101 @@
+#navbar img {
+	max-width: 250px;
+}
+
+.text {
+	color: #fff;
+}
+
+.jumbotron-bg{
+	background: url(../assets/img/bg.png);
+	background-size: cover;
+	height: 250px;
+}
+
+.jumbotron h1,
+.jumbotron p {
+	text-shadow: 0px 0px 2px #000;
+}
+
+.jumbotron h1 {
+	font-size: 50px;
+}
+
+.jumbotron p {
+	font-size: 25px;
+	text-align: justify;
+}
+
+#about {
+	text-align: center;
+	margin-top: 10px;
+}
+
+#about p {
+	font-size: 20px;
+}
+
+.products,
+#services {
+	background-color: #000;
+	padding-bottom: 25px;
+}
+
+#products h1 {
+	text-align: center;
+	margin-bottom: 10px;
+	color: #fff;
+}
+
+.card-title,
+.card-text {
+	text-align: center;
+}
+
+#clients h1,
+#services h1,
+#contact {
+	text-align: center;
+}
+
+#clients h1 {
+	margin-top: 10px;
+}
+
+#clients img {
+	margin-bottom: 30px;
+}
+
+#services h1, label {
+	color: #fff;
+}
+
+#services {
+	padding-top: 10px;
+}
+
+#contact {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#contact li {
+	font-size: 20px;
+}
+
+.card a:hover img {
+	transform: scale(1.1);
+}
+
+
+#footer {
+	background-color: #000;
+	height: 50px;
+}
+
+.footer {
+	margin-top: 20px;
+	padding-top: 13px;
+	color: #fff;
+	text-align: center;
+}

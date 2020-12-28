@@ -1,0 +1,7 @@
+Sumber Assets
+1.	https://youtu.be/LtUINmj0_SA
+2.	https://youtu.be/JhpjKpDUbAY
+3.	https://images.app.goo.gl/CCJLZvN1vdmqzhmX9
+4.	Image clothes, bg, icon, dan di dalam folder content merupakan milik pribadi.
+5.	Image dalam folder clients didapat dari latihan praktikum sebelumnya.
+6.	https://getbootstrap.com/
